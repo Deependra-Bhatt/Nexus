@@ -3,6 +3,8 @@ __pycache__/
 *.pyc
 .env
 .env.*
+.vscode
+.vscode/*
 !.env.example
 *.db
 chroma_data/
